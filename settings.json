@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "afk bot",
     "password": "",
     "type": "ofline"
   },
   "server": {
     "ip": "FarledSmp.aternos.me",
     "port":  23028,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
